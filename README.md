@@ -1,5 +1,5 @@
 # Implementation of Bayesian Optimization to find the optimal learning rate of a deep neural network (CV)
-* Please look at `_bo.ipynb` for results.
+* Please look at [`_bo.ipynb`](https://github.com/Ellariel/baesyan-opt-test/_bo.ipynb) for results.
 
 ## Brief description
 * Here I have implemented two solutions 
@@ -24,9 +24,9 @@ Optimizer:
 
 * Plotting:
   + Starting with the second iteration of Bayesian Optimization, plot all observations, the posterior mean, the uncertainty estimate, and the acquisition function after each iteration.
-  + See here for an exemplary plot (on a different task): https://towardsdatascience.com/shallow-understanding-on-bayesian-optimization-324b6c1f7083
+  + See here for an exemplary plot (on a different task): [link](https://towardsdatascience.com/shallow-understanding-on-bayesian-optimization-324b6c1f7083)
 
 * Programming language: Python; minimal coding standards:
- + PEP8 
- + Doc-Strings
- + README with instructions how to run it
+  + PEP8 
+  + Doc-Strings
+  + README with instructions how to run it
