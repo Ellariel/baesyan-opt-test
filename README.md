@@ -1,6 +1,6 @@
 # Implementation of Bayesian Optimization to find the optimal learning rate of a deep neural network (CV)
-* Please look at [`_bo.ipynb`](https://github.com/Ellariel/baesyan-opt-test/blob/main/_bo.ipynb) in this repo for results.
-* Link on [Google Collab](https://colab.research.google.com/drive/1ReLIPjGRNo46Fw6uO1J5wduwX_wPD9kJ?usp=sharing)
+* Please look at [`_bo.ipynb`](https://github.com/Ellariel/baesyan-opt-test/blob/main/_bo.ipynb) on this repo for results.
+* Direct link to [Google Collab](https://colab.research.google.com/drive/1ReLIPjGRNo46Fw6uO1J5wduwX_wPD9kJ?usp=sharing)
 
 ## Brief description
 * Here I have implemented two solutions 
